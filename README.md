@@ -3,6 +3,7 @@
 Session #3: Git & GitHub
 
 ## Making changes by DM
+One more change
 
 Initializing a Repository
 - Create a new Git repository: git init
